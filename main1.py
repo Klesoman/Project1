@@ -1,3 +1,3 @@
 print("Hello World!")
-print("Hi Git!")
-print("Hiii!")
+x = 10
+print(x)
