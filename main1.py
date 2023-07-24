@@ -1,3 +1,3 @@
 print("Hello World!")
-x = 10
+x = 1000
 print(x)
